@@ -39,3 +39,7 @@ footer {
   text-align: center;
   padding: 30px;
 }
+ol li::marker {
+  font-size: large;
+  font-weight: bold;
+}
