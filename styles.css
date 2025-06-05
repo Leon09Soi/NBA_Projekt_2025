@@ -45,14 +45,11 @@ ol li::marker {
 }
 
 nav {
-  
-  
-  padding: 10px;
+ padding: 10px;
 }
 
 li {
   font-family: Arial;
-  
   margin: 5px;
 }
 
