@@ -43,3 +43,19 @@ ol li::marker {
   font-size: large;
   font-weight: bold;
 }
+
+nav {
+  
+  
+  padding: 10px;
+}
+
+li {
+  font-family: Arial;
+  
+  margin: 5px;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
